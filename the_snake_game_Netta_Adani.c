@@ -1,4 +1,4 @@
-/* Name: Netta Adani, ID: 206960338
+/* Name: Netta Adani,
    The Snake Game - project number 2 */
 #include <stdio.h>
 #include <stdlib.h>
